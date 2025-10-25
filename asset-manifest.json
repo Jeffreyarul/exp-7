@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jeffreyarul/exp-7.git/static/css/main.abf5176e.css",
+    "main.js": "/Jeffreyarul/exp-7.git/static/js/main.475c832a.js",
+    "static/js/453.ac015d55.chunk.js": "/Jeffreyarul/exp-7.git/static/js/453.ac015d55.chunk.js",
+    "index.html": "/Jeffreyarul/exp-7.git/index.html",
+    "main.abf5176e.css.map": "/Jeffreyarul/exp-7.git/static/css/main.abf5176e.css.map",
+    "main.475c832a.js.map": "/Jeffreyarul/exp-7.git/static/js/main.475c832a.js.map",
+    "453.ac015d55.chunk.js.map": "/Jeffreyarul/exp-7.git/static/js/453.ac015d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf5176e.css",
+    "static/js/main.475c832a.js"
+  ]
+}
